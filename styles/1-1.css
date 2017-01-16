@@ -1,0 +1,99 @@
+html {
+	width: 1280px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	margin-left: 80px;
+	margin-right: 80px;
+}
+.title-layout:nth-child(4) {
+	text-align: center;
+	font-family: 'GothamPro' , sans-serif ;
+	font-size: 35px;
+	font-weight: bold;
+	margin-top: 15px;
+}
+
+.title-layout:nth-child(5) {
+	text-align: center;
+	font-style: italic;
+	color:#8f8f8f ;
+	margin-top: 30px;
+}
+
+.hamburger-menu {
+	height: 14px;
+	width: 25px;
+	background: url(HamburgerMenu.png) no-repeat;
+	float: left;
+	margin-top: 25px;
+}
+
+.search-text {
+	font-family: 'GothamPro-Light' , sans-serif ;
+	font-weight: bold;
+	padding-top: 25px;
+	float: right;
+}	
+
+.search-icon {
+	float: left;
+	padding-top: 25px;
+	margin-left: 1010px;
+}
+
+
+.social {
+	width: 123px;
+	height: 15px;
+	padding-top: 150px;
+	margin-left: 500px;
+}
+
+.social .social-layout:nth-child(1) {
+	width: 15px;
+	height: 15px;
+}
+
+.social .social-layout:nth-child(2) {
+	width: 15px;
+	height: 15px;
+	margin-top: -15px;
+	margin-left: 30px;
+}
+
+.social .social-layout:nth-child(3) {
+	width: 15px;
+	height: 15px;
+	margin-top: -15px;
+	margin-left: 60px;
+}
+
+.social .social-layout:nth-child(4) {
+	width: 18px;
+	height: 15px;
+	margin-top: -15px;
+	margin-left: 90px;
+}
+
+.C-left {
+	margin-left: -115px;
+	margin-top: -160px;
+}
+
+.C-right {
+	float: right;
+	margin-right: -115px;
+	margin-top: -650px;
+}
+
+.posts {
+	width: 1180px;
+	margin: auto;
+}
+
+.row1 {
+	
+}
